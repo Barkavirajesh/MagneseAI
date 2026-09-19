@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* Custom scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #090d16;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1e293b;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #334155;
+  }
+}
+
+/* Glowing Top Zone Pulse Animation */
+@keyframes goldGlow {
+  0% {
+    box-shadow: 0 0 10px rgba(245, 158, 11, 0.7), inset 0 0 10px rgba(245, 158, 11, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(245, 158, 11, 1.0), inset 0 0 20px rgba(245, 158, 11, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 10px rgba(245, 158, 11, 0.7), inset 0 0 10px rgba(245, 158, 11, 0.5);
+  }
+}
+
+.top-zone-highlight {
+  animation: goldGlow 2s infinite ease-in-out;
+}
+
+.state-map-label {
+  pointer-events: none !important;
+}

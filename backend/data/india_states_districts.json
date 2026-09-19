@@ -1,0 +1,165 @@
+{
+  "states": [
+    {
+      "id": "odisha",
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "manganese_reserve_rank": 1,
+      "national_share_pct": 44.0,
+      "center": {"lat": 20.95, "lng": 85.10},
+      "bbox": {"min_lat": 17.80, "min_lng": 81.40, "max_lat": 22.50, "max_lng": 87.50},
+      "districts": [
+        {"id": "keonjhar", "name": "Keonjhar (Joda / Barbil)", "center": {"lat": 21.83, "lng": 85.58}, "bbox": {"min_lat": 21.60, "min_lng": 85.35, "max_lat": 22.10, "max_lng": 85.80}, "known_belt": "Jamda-Koira Ore Belt"},
+        {"id": "sundargarh", "name": "Sundargarh (Bonai)", "center": {"lat": 22.12, "lng": 84.05}, "bbox": {"min_lat": 21.90, "min_lng": 83.80, "max_lat": 22.40, "max_lng": 84.30}, "known_belt": "Sundargarh Gondite Belt"},
+        {"id": "rayagada", "name": "Rayagada", "center": {"lat": 19.17, "lng": 83.42}, "bbox": {"min_lat": 19.00, "min_lng": 83.20, "max_lat": 19.40, "max_lng": 83.70}, "known_belt": "Korasapattu Mn Belt"},
+        {"id": "koraput", "name": "Koraput", "center": {"lat": 18.81, "lng": 82.71}, "bbox": {"min_lat": 18.60, "min_lng": 82.40, "max_lat": 19.10, "max_lng": 83.00}, "known_belt": "Southern Eastern Ghats Belt"},
+        {"id": "mayurbhanj", "name": "Mayurbhanj", "center": {"lat": 21.93, "lng": 86.73}, "bbox": {"min_lat": 21.70, "min_lng": 86.40, "max_lat": 22.30, "max_lng": 87.10}, "known_belt": "Simlipal Boundary Zone"},
+        {"id": "jajpur", "name": "Jajpur (Sukinda)", "center": {"lat": 20.85, "lng": 86.33}, "bbox": {"min_lat": 20.65, "min_lng": 86.10, "max_lat": 21.05, "max_lng": 86.55}, "known_belt": "Sukinda Ultramafic Belt"}
+      ]
+    },
+    {
+      "id": "madhya_pradesh",
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "manganese_reserve_rank": 2,
+      "national_share_pct": 27.0,
+      "center": {"lat": 22.90, "lng": 78.60},
+      "bbox": {"min_lat": 21.10, "min_lng": 74.00, "max_lat": 26.90, "max_lng": 82.80},
+      "districts": [
+        {"id": "balaghat", "name": "Balaghat (Bharweli / Ukwa)", "center": {"lat": 21.80, "lng": 80.18}, "bbox": {"min_lat": 21.60, "min_lng": 79.95, "max_lat": 22.10, "max_lng": 80.50}, "known_belt": "Bharweli-Ukwa Gondite Belt (Asia's Deepest Mine)"},
+        {"id": "chhindwara", "name": "Chhindwara (Saonri)", "center": {"lat": 21.58, "lng": 78.93}, "bbox": {"min_lat": 21.40, "min_lng": 78.70, "max_lat": 21.85, "max_lng": 79.20}, "known_belt": "Sausar Series Gondite Ore"},
+        {"id": "jhabua", "name": "Jhabua (Kajlidongri)", "center": {"lat": 22.76, "lng": 74.60}, "bbox": {"min_lat": 22.50, "min_lng": 74.30, "max_lat": 23.00, "max_lng": 74.90}, "known_belt": "Aravalli Metasedimentary Ore"},
+        {"id": "jabalpur", "name": "Jabalpur (Gosalpur)", "center": {"lat": 23.18, "lng": 79.95}, "bbox": {"min_lat": 22.95, "min_lng": 79.70, "max_lat": 23.40, "max_lng": 80.25}, "known_belt": "Mahakoshal Mineralized Belt"},
+        {"id": "seoni", "name": "Seoni", "center": {"lat": 22.08, "lng": 79.54}, "bbox": {"min_lat": 21.85, "min_lng": 79.30, "max_lat": 22.30, "max_lng": 79.80}, "known_belt": "Southern MP Gondite Zone"}
+      ]
+    },
+    {
+      "id": "maharashtra",
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "manganese_reserve_rank": 3,
+      "national_share_pct": 12.0,
+      "center": {"lat": 19.75, "lng": 75.71},
+      "bbox": {"min_lat": 15.60, "min_lng": 72.60, "max_lat": 22.00, "max_lng": 80.90},
+      "districts": [
+        {"id": "bhandara", "name": "Bhandara (Dongri-Buzurg / Mansar)", "center": {"lat": 21.54, "lng": 79.69}, "bbox": {"min_lat": 21.35, "min_lng": 79.45, "max_lat": 21.75, "max_lng": 79.95}, "known_belt": "Dongri-Buzurg Supergene Pyrolusite Deposit"},
+        {"id": "nagpur", "name": "Nagpur (Gumgaon / Chikla)", "center": {"lat": 21.38, "lng": 79.20}, "bbox": {"min_lat": 21.15, "min_lng": 78.90, "max_lat": 21.60, "max_lng": 79.45}, "known_belt": "Nagpur Gondite Formation"},
+        {"id": "chandrapur", "name": "Chandrapur", "center": {"lat": 19.95, "lng": 79.30}, "bbox": {"min_lat": 19.70, "min_lng": 79.00, "max_lat": 20.25, "max_lng": 79.60}, "known_belt": "Pranhita-Godavari Valley Belt"},
+        {"id": "sindhudurg", "name": "Sindhudurg (Redi)", "center": {"lat": 16.00, "lng": 73.70}, "bbox": {"min_lat": 15.75, "min_lng": 73.45, "max_lat": 16.25, "max_lng": 74.00}, "known_belt": "Konkan Lateritic Iron-Mn Belt"}
+      ]
+    },
+    {
+      "id": "karnataka",
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "manganese_reserve_rank": 4,
+      "national_share_pct": 10.0,
+      "center": {"lat": 15.31, "lng": 75.71},
+      "bbox": {"min_lat": 11.60, "min_lng": 74.00, "max_lat": 18.50, "max_lng": 78.50},
+      "districts": [
+        {"id": "bellary", "name": "Bellary (Sandur / Hospet)", "center": {"lat": 15.08, "lng": 76.55}, "bbox": {"min_lat": 14.90, "min_lng": 76.35, "max_lat": 15.30, "max_lng": 76.80}, "known_belt": "Sandur Schist Belt (High-Grade Iron-Mn)"},
+        {"id": "shimoga", "name": "Shimoga (Kumsi)", "center": {"lat": 13.92, "lng": 75.56}, "bbox": {"min_lat": 13.70, "min_lng": 75.30, "max_lat": 14.15, "max_lng": 75.85}, "known_belt": "Lateritic Manganese Crust Belt"},
+        {"id": "chitradurga", "name": "Chitradurga", "center": {"lat": 14.23, "lng": 76.40}, "bbox": {"min_lat": 14.00, "min_lng": 76.15, "max_lat": 14.45, "max_lng": 76.65}, "known_belt": "Chitradurga Dharwar Formation"},
+        {"id": "uttara_kannada", "name": "Uttara Kannada (Supa / Dandeli)", "center": {"lat": 15.26, "lng": 74.55}, "bbox": {"min_lat": 15.00, "min_lng": 74.30, "max_lat": 15.50, "max_lng": 74.80}, "known_belt": "Western Ghats Supergene Crust"}
+      ]
+    },
+    {
+      "id": "andhra_pradesh",
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "manganese_reserve_rank": 5,
+      "national_share_pct": 4.0,
+      "center": {"lat": 15.91, "lng": 79.74},
+      "bbox": {"min_lat": 13.50, "min_lng": 76.80, "max_lat": 19.10, "max_lng": 84.70},
+      "districts": [
+        {"id": "vizianagaram", "name": "Vizianagaram (Garividi / Kodur)", "center": {"lat": 18.28, "lng": 83.53}, "bbox": {"min_lat": 18.10, "min_lng": 83.30, "max_lat": 18.50, "max_lng": 83.75}, "known_belt": "Kodurite Alteration Ore Series (Major Mn Field)"},
+        {"id": "srikakulam", "name": "Srikakulam (Cheepurupalli)", "center": {"lat": 18.30, "lng": 83.90}, "bbox": {"min_lat": 18.10, "min_lng": 83.65, "max_lat": 18.55, "max_lng": 84.15}, "known_belt": "Northern AP Khondalite Ore Belt"},
+        {"id": "visakhapatnam", "name": "Visakhapatnam (Anakapalle)", "center": {"lat": 17.68, "lng": 83.21}, "bbox": {"min_lat": 17.45, "min_lng": 82.95, "max_lat": 17.90, "max_lng": 83.45}, "known_belt": "Eastern Ghats Mobile Belt"},
+        {"id": "kurnool", "name": "Kurnool (Dhone / Bethamcherla)", "center": {"lat": 15.82, "lng": 78.03}, "bbox": {"min_lat": 15.55, "min_lng": 77.75, "max_lat": 16.10, "max_lng": 78.30}, "known_belt": "Cuddapah Basin Mineralized Rim"},
+        {"id": "kadapa", "name": "Kadapa (Pulivendula)", "center": {"lat": 14.46, "lng": 78.82}, "bbox": {"min_lat": 14.20, "min_lng": 78.50, "max_lat": 14.75, "max_lng": 79.10}, "known_belt": "Southern Cuddapah Supergroup"},
+        {"id": "guntur", "name": "Guntur", "center": {"lat": 16.30, "lng": 80.43}, "bbox": {"min_lat": 16.05, "min_lng": 80.15, "max_lat": 16.55, "max_lng": 80.70}, "known_belt": "Krishna Basin Sedimentary Margin"},
+        {"id": "anantapur", "name": "Anantapur (Rayadurg)", "center": {"lat": 14.68, "lng": 77.60}, "bbox": {"min_lat": 14.40, "min_lng": 77.30, "max_lat": 14.95, "max_lng": 77.90}, "known_belt": "Dharwar Craton Eastern Margin"}
+      ]
+    },
+    {
+      "id": "tamil_nadu",
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "manganese_reserve_rank": 6,
+      "national_share_pct": 1.5,
+      "center": {"lat": 11.12, "lng": 78.65},
+      "bbox": {"min_lat": 8.00, "min_lng": 76.20, "max_lat": 13.50, "max_lng": 80.35},
+      "districts": [
+        {"id": "chennai", "name": "Chennai (Capital District)", "center": {"lat": 13.08, "lng": 80.27}, "bbox": {"min_lat": 12.90, "min_lng": 80.10, "max_lat": 13.25, "max_lng": 80.35}, "known_belt": "Northern Coastal Alluvial Zone"},
+        {"id": "madurai", "name": "Madurai (Melur / Thirumangalam)", "center": {"lat": 9.92, "lng": 78.12}, "bbox": {"min_lat": 9.75, "min_lng": 77.95, "max_lat": 10.10, "max_lng": 78.30}, "known_belt": "Southern Granulite Metamorphic Belt"},
+        {"id": "salem", "name": "Salem (Kanjamalai)", "center": {"lat": 11.66, "lng": 78.14}, "bbox": {"min_lat": 11.45, "min_lng": 77.95, "max_lat": 11.85, "max_lng": 78.35}, "known_belt": "Kanjamalai Iron-Manganese Formation"},
+        {"id": "tiruchirappalli", "name": "Tiruchirappalli (Trichy)", "center": {"lat": 10.79, "lng": 78.70}, "bbox": {"min_lat": 10.60, "min_lng": 78.50, "max_lat": 11.00, "max_lng": 78.90}, "known_belt": "Kaveri Basin Mineral Zone"},
+        {"id": "coimbatore", "name": "Coimbatore", "center": {"lat": 11.01, "lng": 76.95}, "bbox": {"min_lat": 10.80, "min_lng": 76.75, "max_lat": 11.20, "max_lng": 77.15}, "known_belt": "Western Tamil Nadu Granulite Corridor"}
+      ]
+    },
+    {
+      "id": "telangana",
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "manganese_reserve_rank": 7,
+      "national_share_pct": 2.5,
+      "center": {"lat": 17.87, "lng": 78.10},
+      "bbox": {"min_lat": 15.80, "min_lng": 77.20, "max_lat": 19.90, "max_lng": 81.30},
+      "districts": [
+        {"id": "adilabad", "name": "Adilabad (Utnoor / Ramakrishnapur)", "center": {"lat": 19.66, "lng": 78.53}, "bbox": {"min_lat": 19.40, "min_lng": 78.25, "max_lat": 19.90, "max_lng": 78.80}, "known_belt": "Penganga Limestone & Manganese Ore Belt"},
+        {"id": "khammam", "name": "Khammam", "center": {"lat": 17.24, "lng": 80.15}, "bbox": {"min_lat": 17.00, "min_lng": 79.90, "max_lat": 17.50, "max_lng": 80.40}, "known_belt": "Godavari Valley Metasedimentary Margin"},
+        {"id": "warangal", "name": "Warangal", "center": {"lat": 17.97, "lng": 79.59}, "bbox": {"min_lat": 17.70, "min_lng": 79.30, "max_lat": 18.20, "max_lng": 79.85}, "known_belt": "Eastern Dharwar Craton Zone"}
+      ]
+    },
+    {
+      "id": "gujarat",
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "manganese_reserve_rank": 8,
+      "national_share_pct": 2.0,
+      "center": {"lat": 22.25, "lng": 71.19},
+      "bbox": {"min_lat": 20.10, "min_lng": 68.10, "max_lat": 24.70, "max_lng": 74.50},
+      "districts": [
+        {"id": "panchmahal", "name": "Panchmahal (Shivrajpur)", "center": {"lat": 22.42, "lng": 73.60}, "bbox": {"min_lat": 22.20, "min_lng": 73.35, "max_lat": 22.65, "max_lng": 73.85}, "known_belt": "Champaner Metasedimentary Ore Belt"},
+        {"id": "vadodara", "name": "Vadodara (Chhota Udepur)", "center": {"lat": 22.30, "lng": 73.20}, "bbox": {"min_lat": 22.10, "min_lng": 72.95, "max_lat": 22.55, "max_lng": 73.45}, "known_belt": "Eastern Gujarat Manganese Ridge"}
+      ]
+    },
+    {
+      "id": "jharkhand",
+      "name": "Jharkhand",
+      "capital": "Ranchi",
+      "manganese_reserve_rank": 9,
+      "national_share_pct": 1.0,
+      "center": {"lat": 23.61, "lng": 85.27},
+      "bbox": {"min_lat": 21.90, "min_lng": 83.30, "max_lat": 25.30, "max_lng": 87.90},
+      "districts": [
+        {"id": "west_singhbhum", "name": "West Singhbhum (Chaibasa / Gua)", "center": {"lat": 22.55, "lng": 85.81}, "bbox": {"min_lat": 22.30, "min_lng": 85.55, "max_lat": 22.80, "max_lng": 86.05}, "known_belt": "Singhbhum Iron-Manganese Craton"}
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "manganese_reserve_rank": 10,
+      "national_share_pct": 0.8,
+      "center": {"lat": 26.58, "lng": 73.84},
+      "bbox": {"min_lat": 23.00, "min_lng": 69.50, "max_lat": 30.20, "max_lng": 78.20},
+      "districts": [
+        {"id": "banswara", "name": "Banswara (Leotia / Tambesra)", "center": {"lat": 23.54, "lng": 74.44}, "bbox": {"min_lat": 23.30, "min_lng": 74.20, "max_lat": 23.80, "max_lng": 74.70}, "known_belt": "Aravalli Pre-Cambrian Manganese Belt"},
+        {"id": "udaipur", "name": "Udaipur", "center": {"lat": 24.58, "lng": 73.71}, "bbox": {"min_lat": 24.30, "min_lng": 73.45, "max_lat": 24.85, "max_lng": 74.00}, "known_belt": "Zawar-Aravalli Mineralized Corridor"}
+      ]
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "capital": "Panaji",
+      "manganese_reserve_rank": 11,
+      "national_share_pct": 0.5,
+      "center": {"lat": 15.29, "lng": 74.12},
+      "bbox": {"min_lat": 14.90, "min_lng": 73.60, "max_lat": 15.80, "max_lng": 74.40},
+      "districts": [
+        {"id": "sanguem", "name": "Sanguem District", "center": {"lat": 15.23, "lng": 74.15}, "bbox": {"min_lat": 15.10, "min_lng": 74.00, "max_lat": 15.40, "max_lng": 74.30}, "known_belt": "Sanguem Ferruginous Manganese Crust"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+dep_id,site_name,latitude,longitude,country,state_province,commodity,deposit_type,grade_mn_percent,status
+GSI001,Jamda-Koira Ore Belt,22.0521,85.2413,India,Odisha,Manganese,Sedimentary / Supergene Oxide,42.5,Active Mine
+GSI002,Keonjhar Joda District,21.8322,85.5812,India,Odisha,Manganese,Sedimentary Hydrothermal,44.0,Active Mine
+GSI003,Sundargarh Bonai Mn Belt,22.1200,84.0500,India,Odisha,Manganese,Gondite-hosted Manganese,36.4,Active Mine
+GSI004,Rayagada Mn Occurrence,19.1700,83.4200,India,Odisha,Manganese,Khondalite-hosted Ore,32.0,Occurrence
+GSI005,Korasapattu Mn Deposit,18.9000,83.1500,India,Odisha,Manganese,Residual Supergene Oxide,35.0,Active Mine
+GSI006,Balaghat Bharweli Mine,21.8055,80.1834,India,Madhya Pradesh,Manganese,Precambrian Metamorphosed Gondite,46.2,Active Mine
+GSI007,Ukwa Manganese Deposit,21.9667,80.4667,India,Madhya Pradesh,Manganese,Braunitic Gondite Ore,42.0,Active Mine
+GSI008,Tirodi Manganese Mine,21.6833,79.7167,India,Madhya Pradesh,Manganese,Braunitic Gondite,43.5,Active Mine
+GSI009,Chhindwara Mn District,21.5800,78.9300,India,Madhya Pradesh,Manganese,Gondite Ore,34.0,Active Mine
+GSI010,Jhabua Mn Deposit,22.7667,74.6000,India,Madhya Pradesh,Manganese,Supergene Pyrolusite,38.5,Active Mine
+GSI011,Dongri-Buzurg Mine,21.5431,79.6912,India,Maharashtra,Manganese,Supergene Pyrolusite,48.0,Active Mine
+GSI012,Bhandara Mansar Mine,21.4000,79.2500,India,Maharashtra,Manganese,Gondite Metasediment,40.0,Active Mine
+GSI013,Nagpur Chikla Deposit,21.4667,79.5667,India,Maharashtra,Manganese,Precambrian Ore,41.5,Active Mine
+GSI014,Gumgaon Mn Mine,21.3833,79.2000,India,Maharashtra,Manganese,Braunitic Ore,39.0,Active Mine
+GSI015,Sandur Bellary Mn Field,15.0833,76.5500,India,Karnataka,Manganese,Iron-Manganese Dharwar Formation,38.0,Active Mine
+GSI016,Shimoga Mn District,13.9200,75.5600,India,Karnataka,Manganese,Lateritic Manganese Oxide,34.5,Past Producer
+GSI017,Chitradurga Belt,14.2333,76.4000,India,Karnataka,Manganese,Sedimentary Supergene,32.0,Active Mine
+GSI018,North Kanara Supa Belt,15.2667,74.5500,India,Karnataka,Manganese,Lateritic Pyrolusite,35.5,Active Mine
+GSI019,Garividi Mn District,18.2833,83.5333,India,Andhra Pradesh,Manganese,Kodurite Alteration Ore,36.0,Active Mine
+GSI020,Cheepurupalli Prospect,18.3000,83.5667,India,Andhra Pradesh,Manganese,Residual Oxide,34.0,Active Mine
+GSI021,Shivrajpur Mine,22.4167,73.6000,India,Gujarat,Manganese,Precambrian Oxide,39.0,Past Producer
+GSI022,Panchmahal Mn Zone,22.5500,73.7500,India,Gujarat,Manganese,Metamorphosed Manganese,33.0,Occurrence
+GSI023,Chaibasa Mn Field,22.5500,85.8167,India,Jharkhand,Manganese,Iron-Manganese Ore,37.0,Active Mine
+GSI024,Goa Sanguem Belt,15.2333,74.1500,India,Goa,Manganese,Ferruginous Manganese Oxide,31.5,Past Producer
+GSI025,Banswara Mn Belt,23.5500,74.4500,India,Rajasthan,Manganese,Aravalli Metasedimentary Ore,35.0,Active Mine
